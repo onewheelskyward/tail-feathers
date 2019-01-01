@@ -14,7 +14,7 @@ def lambda_handler(event:, context:)
   bj['locations'].each do |loc|
     t = Time.parse(loc['properties']['timestamp'])
     # Get a 2018-12-25-05 key prefix
-    key_prefix = "#{t.year}/#{t.month}/#{t.day}/#{t.hour.to_s.rjust(2, '0')}/"
+    key_prefix = "#{t.year}/#{zeroes t.month}/#{zeroes t.day}/#{zeroes t.hour}/"
     # Create the filename
     key = "#{key_prefix}#{loc['type']}-#{loc['properties']['timestamp']}.json"
     # Poop it out.
@@ -49,6 +49,10 @@ def put_to_bucket(bucket, key, payload)
   obj.put(body: payload.to_json)
 end
 
+
+def zeroes(num)
+  num.to_s.rjust(2, '0')
+end
 
 # bj['locations'] example
 # {
