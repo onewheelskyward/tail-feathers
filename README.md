@@ -16,6 +16,7 @@ First you have to zip up your artifact-
 `zip -r func.zip *`
 
 Then update the lambda code (create on the first one):
+
 `aws lambda update-function-code --function-name myFunctionName --zip-file fileb://func.zip --profile appropriate-profile`
 
 Each lambda in this repo is handled separately.
