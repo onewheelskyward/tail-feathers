@@ -1,0 +1,1486 @@
+{
+  "current": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.51112056734421,
+        40.61623099467329
+      ]
+    },
+    "properties": {
+      "motion": [],
+      "speed": -1,
+      "battery_level": 1,
+      "wifi": "",
+      "vertical_accuracy": 10,
+      "device_id": "iphoneX",
+      "horizontal_accuracy": 65,
+      "timestamp": "2018-12-25T12:52:41Z",
+      "altitude": 120,
+      "battery_state": "unplugged"
+    }
+  },
+  "locations": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125798179997,
+          40.61615910836146
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:00:18Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 32,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112604186883,
+          40.61616172916133
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:00:54Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112604186883,
+          40.61616172916133
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:01:01Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51124816841083,
+          40.61616166791369
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:03:55Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51124770783638,
+          40.61616119628175
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:04:01Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125944038164,
+          40.61615265208618
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:07:20Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51126243987788,
+          40.61614377304522
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:09:46Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51126959912688,
+          40.61613518124153
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:10:16Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125898709756,
+          40.61613089135219
+        ]
+      },
+      "properties": {
+        "speed": 1,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:10:22Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51124395533736,
+          40.61611643626245
+        ]
+      },
+      "properties": {
+        "speed": 1,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:10:24Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51123866937758,
+          40.61610794767566
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:10:25Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51123911608649,
+          40.61609230643118
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:10:27Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112493155871,
+          40.616086694959726
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:10:30Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125058457708,
+          40.61608657702514
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:11:36Z",
+        "battery_level": 0.46000000834465027,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51126234500832,
+          40.61607898772921
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:13:10Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51126117662831,
+          40.616088080122154
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:13:27Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51127144525044,
+          40.61607622245181
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:13:32Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51128134853884,
+          40.616067014056526
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:13:42Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51129351480905,
+          40.61606732553545
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:13:52Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112899491314,
+          40.616075943254415
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:14:03Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51128537330514,
+          40.61608438928556
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:14:28Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51127720388222,
+          40.61609093914846
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:14:48Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125990309282,
+          40.61609630574873
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:15:09Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51124875025829,
+          40.61610705570951
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:15:28Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112476027442,
+          40.61609787168711
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:15:30Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125062396194,
+          40.616093224957766
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:15:47Z",
+        "battery_level": 0.44999998807907104,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112593818438,
+          40.61608587303353
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:20:05Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125387572385,
+          40.616086981275096
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:21:51Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51126892538598,
+          40.61607895807663
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:12Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51127002804229,
+          40.61606597944355
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:14Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51128508600097,
+          40.61605783609227
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:16Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 6,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51128340182694,
+          40.61604355948914
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:26:42Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51126932945392,
+          40.61603478996247
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:43Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51125944189734,
+          40.61602660725482
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:44Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112446949675,
+          40.615986336767094
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:45Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51123663394608,
+          40.61597956738724
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:50Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112356958491,
+          40.61596778321806
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:26:52Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112389118353,
+          40.61597710177789
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:27:26Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51123781687194,
+          40.61598090823629
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:27:27Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112284686393,
+          40.61599239915116
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:27:29Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112438166546,
+          40.61598659610861
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:27:38Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5112653768729,
+          40.6159856971207
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:27:39Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51127833980915,
+          40.615983253278195
+        ]
+      },
+      "properties": {
+        "speed": 1,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:27:40Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51129036657208,
+          40.61598405193464
+        ]
+      },
+      "properties": {
+        "speed": 1,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:27:41Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51130104433604,
+          40.615988031577864
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:27:45Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51131792424547,
+          40.616002128055385
+        ]
+      },
+      "properties": {
+        "speed": 1,
+        "battery_state": "unplugged",
+        "motion": [
+          "stationary"
+        ],
+        "timestamp": "2018-12-25T05:27:48Z",
+        "battery_level": 0.4399999976158142,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51134352328266,
+          40.61601625751042
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [],
+        "timestamp": "2018-12-25T05:32:01Z",
+        "battery_level": 0.4300000071525574,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51134311326598,
+          40.616028418616075
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "walking"
+        ],
+        "timestamp": "2018-12-25T05:32:09Z",
+        "battery_level": 0.4300000071525574,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51133754136528,
+          40.61603829829435
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "walking"
+        ],
+        "timestamp": "2018-12-25T05:32:21Z",
+        "battery_level": 0.4300000071525574,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 8,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51134155759163,
+          40.616049953144966
+        ]
+      },
+      "properties": {
+        "speed": 0,
+        "battery_state": "unplugged",
+        "motion": [
+          "walking"
+        ],
+        "timestamp": "2018-12-25T05:32:32Z",
+        "battery_level": 0.4300000071525574,
+        "vertical_accuracy": 3,
+        "pauses": true,
+        "horizontal_accuracy": 16,
+        "wifi": "☃",
+        "deferred": 100,
+        "significant_change": 1,
+        "locations_in_payload": 1,
+        "activity": "fitness",
+        "device_id": "iphoneX",
+        "altitude": 121,
+        "desired_accuracy": -1
+      }
+    }
+  ]
+}
